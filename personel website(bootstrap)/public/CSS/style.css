@@ -1,0 +1,46 @@
+body{
+    background-color: #ddd;
+}
+.single-fact{
+    text-align: center;
+    margin: 45px 0;
+    padding: 8px 16px;
+    
+   
+}
+.fact-area{
+    width: 100%;
+   
+}
+.fact-box{
+    box-shadow: 0px 20px 50px rgba(153, 153, 153, 0.2);
+}
+.fa-facebook{
+    color: #3b5998;
+}
+.fa-github{
+    color: #171515 ;
+}
+.fa-instagram{
+    color: #c13584;
+
+}
+.fa-linkedin{
+    color: #0077B5;
+
+}
+.box{
+    border: 3px solid yellow;
+   
+}
+.card{
+   
+    overflow: hidden;
+    border-radius: 15px;
+}
+table th,td{
+
+    text-align: center;
+    color: black;
+    border: 3px solid black;
+}

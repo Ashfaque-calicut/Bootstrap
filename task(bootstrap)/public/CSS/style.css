@@ -1,0 +1,56 @@
+
+
+.row h6{
+    margin-top: 200px;
+}
+
+
+.card{
+    display: flex;
+   justify-content: space-between;
+}
+    
+
+.card2{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+
+
+}
+
+   
+    
+
+.card5{
+    display: flex;
+    width: 100%;
+    height: 300px;
+    justify-content: space-around;
+    background-color: black;
+    
+}
+.card6{
+    color: white;
+    width: 25%;
+
+}
+.card6 h1{
+    text-align: left;
+}
+
+.card6 li{
+    text-align: left;
+}
+
+.container p{
+    text-align: center;
+    color: white;
+}
+
+
+
+
+
+
+
